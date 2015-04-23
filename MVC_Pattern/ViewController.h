@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+#import "ControllerObject.h"
+#import "ViewObject.h"
+#import "ModelObject.h"
+
 @interface ViewController : UIViewController
 
 
